@@ -1,0 +1,1 @@
+export const selectWeatherData = (store: any) => store.weatherReducer.weather.data
